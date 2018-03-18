@@ -1,6 +1,7 @@
 # kingston_fw_updater
 Kingston Firmware Updater Revision 2_0_5_build_010
 
+Kingston's utility to update SSD firware on Sandforce based drives, created by James Huey.
 Binary is from the Tinycore based V300 ISO updater(CD_V300_603.iso), the firmwares are coming from Kingston's official updaters. According to the ISO updater, both bin and firmware directories (hardcoded to the binary as well) are stored under the /custom .
 
 FW version and product chart:
