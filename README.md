@@ -15,22 +15,35 @@ FW version and product chart:
 
 Arch AUR package: https://aur.archlinux.org/packages/kingston_fw_updater
 
-Needed libraries:
+Needed 32bit (!) libraries:
+
+libbz2.so.1.0
 libc.so.6
 libdl.so.2
+libexpat.so.1
 libfontconfig.so.1
 libfreetype.so.6
 libgcc_s.so.1
+libglib-2.0.so.0
+libharfbuzz.so.0
 libICE.so.6
 libjpeg.so.62
-ld-linux.so.2
 libm.so.6
+libpcre.so.1
 libpng12.so.0
+libpng16.so.16
 libpthread.so.0
 librt.so.1
 libSM.so.6
 libstdc++.so.6
+libuuid.so.1
 libX11.so.6
+libXau.so.6
+libxcb.so.1
+libXdmcp.so.6
 libXext.so.6
 libXrender.so.1
 libz.so.1
+
+Optional 64bit lib:
+ld-linux.so.2
