@@ -1,3 +1,5 @@
+Read-only, for updates please look at: https://gitlab.com/vinibali/kingston_fw_updater
+
 # kingston_fw_updater
 Kingston Firmware Updater Revision 2_0_5_build_010
 
